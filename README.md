@@ -5,10 +5,10 @@ I’m **Amine**, a 15-year-old programmer and UI/UX designer from **Algeria**.
 ## 💡 My Passions
 
 I’m fascinated by all kinds of tech, including:
-- 📡 Telecommunications
-- 🕹️ Retro Tech
-- 🔐 Cybersecurity
-- 💻 Coding
+- 📡 **Telecommunications**
+- 🕹️ **Retro Tech**
+- 🔐 **Cybersecurity**
+- 💻 **Coding** and more...
 
 ## 💻 Coding
 
