@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I’m **Amine**, a 15-year-old programmer and UI/UX designer from **Algeria**.
+I’m **Amine**, a 16-year-old programmer and UI/UX designer from **Algeria**.
 
 ## 💡 My Passions
 
